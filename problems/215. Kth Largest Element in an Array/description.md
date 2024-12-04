@@ -17,5 +17,5 @@ Output: 4
 
 Constraints:
 
-1 <= k <= nums.length <= 105
--104 <= nums[i] <= 104
+1 <= k <= nums.length <= 1e5
+-1e4 <= nums[i] <= 1e4

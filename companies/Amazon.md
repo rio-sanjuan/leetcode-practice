@@ -6,7 +6,7 @@ Amazon likes to ask simple, basic array questions. We highly recommend you to pr
 
 - [1. Two Sum](../problems/1.%20Two%20Sum/)
 - [3. Longest Substring Without Repeating Characters](../problems/3.%20Longest%20Substring%20Without%20Repeating%20Characters/)
-- [String to Integer](../problems/)
+- [8. String to Integer](<../problems/8.%20String%20to%20Integer%20(atoi)/>)
 - [Container With Most Water](../problems/)
 - [Integer to Roman](../problems/)
 - [Roman to Integer](../problems/)

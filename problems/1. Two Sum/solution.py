@@ -12,4 +12,4 @@ class Solution(object):
             if complement in num_map:
                 return [i, num_map[complement]]
             num_map[nums[i]] = i
-        return []
+        return [-1, -1]
