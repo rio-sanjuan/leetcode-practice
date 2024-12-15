@@ -15,7 +15,7 @@ Amazon likes to ask simple, basic array questions. We highly recommend you to pr
 - [Implement strStr()](../problems/)
 - [Rotate Image](../problems/)
 - [Group Anagrams](../problems/)
-- [Minimum Window Substring](../problems/)
+- [76. Minimum Window Substring](../problems/76.%20Minimum%20Window%20Substring/)
 - [Compare Version Numbers](../problems/)
 - [Product of Array Except Self](../problems/)
 - [Missing Number](../problems/)
